@@ -1,7 +1,12 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
-dataset/
+
+data/
+models/
+
 *.h5
+*.keras
 *.pth
 *.pt

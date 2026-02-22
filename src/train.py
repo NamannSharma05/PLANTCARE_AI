@@ -58,6 +58,7 @@ model.fit(
     epochs=EPOCHS
 )
 
-model.save("../models/plant_model.h5")
+model.save("../models/plant_model.kearas")
+
 
 print("Model saved successfully!")
